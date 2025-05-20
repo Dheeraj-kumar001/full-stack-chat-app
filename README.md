@@ -69,8 +69,7 @@ PORT=5001
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+
 ```
 
 🏗️ Build and Run the Application
@@ -97,8 +96,7 @@ http://localhost
 
 Follow these simple steps to get the project up and running on your local Host using docker.
 
-```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+
 ```
 
 ```bash
@@ -201,32 +199,4 @@ This project is evolving, and here are a few exciting things on the horizon:
 * **Stay tuned for updates as we continue to improve and expand this project!**
 
 ---
-
-## 📚 Project Snapshots:
-
-![Settings](frontend/public/settings.png)
-
-![chat](frontend/public/chat.png)
-
-![logout](/frontend/public/logout.png)
-
-![Login](/frontend/public/login.png)
-
-
-
-## 📜 License
-
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
-
-
-
-
-
-
-
-
-
 
